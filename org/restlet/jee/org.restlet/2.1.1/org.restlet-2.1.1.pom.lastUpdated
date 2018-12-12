@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 25 20:25:01 SGT 2018
+@default-maven-restlet-http/.lastUpdated=1540005101505
+@default-maven-restlet-http\://maven.restlet.org/.lastUpdated=1540005113996
+http\://maven/.error=Could not transfer artifact org.restlet.jee\:org.restlet\:pom\:2.1.1 from/to maven-restlet (http\://maven)\: maven
+http/.error=Could not transfer artifact org.restlet.jee\:org.restlet\:pom\:2.1.1 from/to maven-restlet (http)\: Cannot access http with type default using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.lastUpdated=1540470301458
+https\://repo.maven.apache.org/maven2/.error=
+@default-maven-restlet-http\://maven/.lastUpdated=1540005108932
+http\://maven.restlet.org/.error=Could not transfer artifact org.restlet.jee\:org.restlet\:pom\:2.1.1 from/to maven-restlet (http\://maven.restlet.org)\: maven.restlet.org
